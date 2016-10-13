@@ -57,4 +57,4 @@ class Maze
 
 end
 
-Recursive.(Maze.new)
+BinaryTree.(Maze.new)
